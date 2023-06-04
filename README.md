@@ -3,4 +3,4 @@ Pozdravljeni, rad bi vam predstavil mojo slovensko razlicico skripte r-z_welcome
 
 # POMEMBNO OPOZORILO
 
-do not change the name of the AUTHOR or the NAME of the script, otherwise the script will not work for you because it has PROTECTION
+ne spreminjajte imena AVTORJA ali IMENA skripte, sicer vam skripta ne bo delovala pravilno, ker ima ZAŠČITO
